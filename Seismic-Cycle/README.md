@@ -18,9 +18,6 @@ Una animación que muestra el ciclo sísmico en una zona de subducción (converg
 
 ⬇️ [Descargar la animación (Español, versión larga, MP4)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/CicloSismico_Subduccion_largo_Espanol.mp4)
 
-## GNSS observations of Earth's Crustal Deformation
-If you want so explore and download positional time series of GNSS observations in Chile, please go to the GeoSismos platform by clicking [HERE](https://geosismos.cl/).
-
 ## Credits
 
 - **© 2026 F. Ortega-Culaciati**
