@@ -1,5 +1,7 @@
 # Seismic Cycle
 
+<img src="../img/screenshot_seismic_cycle.png" alt="Frame from the Seismic Cycle animation: subduction zone block diagram and GNSS station displacement time series" width="100%">
+
 ## English
 
 An animation depicting the seismic cycle at a subduction zone (Nazca Plate converging beneath the South  American Plate, Central Chile), combining a map/cross-section view, GNSS station displacement time series, tsunami generation, and seismic wave (P/S) propagation. It illustrates the cycle's three phases: the **interseismic** period of locked-interface strain accumulation (decades–centuries), the **coseismic** earthquake rupture (seconds–minutes), and the **postseismic** afterslip relaxation (months–decades).
