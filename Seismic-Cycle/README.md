@@ -23,7 +23,7 @@ If you want so explore and download positional time series of GNSS observations 
 ## Acknowledgements
 **Funded by Project Fondecyt 1231684 - ANID - Chile.**
 
-<img src="../img/LOGOS_MINCIENCIA_ANID%202026.png" alt="ANID Logo" height="100">
+<img src="../img/LOGOS_MINCIENCIA_ANID%202026.png" alt="ANID Logo" height="150">
 
 ## License
 
@@ -46,5 +46,7 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
 ## GeoSismos: GNSS observations of Earth's Crustal Deformation
 To explore and download positional time series of GNSS observations in Chile, as the ones
 depicted in the animations, please go to the GeoSismos platform by clicking [HERE](https://geosismos.cl/)
-<img src="../img/logo-geosismos.png" alt="GEOSISMOS Logo" height="100">
+
+
+<img src="../img/logo-geosismos.png" alt="GEOSISMOS Logo" height="75">
 
