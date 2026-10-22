@@ -39,7 +39,7 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
 - [Python](https://www.python.org/) - [NumPy](https://numpy.org/) - [Matplotlib](https://matplotlib.org/) - [Pillow](https://python-pillow.org/) - [SciPy](https://scipy.org/) - [netCDF4](https://unidata.github.io/netcdf4-python/) - [pyproj](https://pyproj4.github.io/pyproj/) - [tqdm](https://github.com/tqdm/tqdm) - [FFmpeg](https://ffmpeg.org/) - [GNU Fortran (gfortran)](https://gcc.gnu.org/fortran/).
 
 
-## <img src="../img/logo-geosismos.png" alt="GEOSISMOS Logo" height="25">: GNSS observations of Earth's Crustal Deformation
+## <img src="../img/logo-geosismos.png" alt="GEOSISMOS Logo" height="30">: GNSS observations of Earth's Crustal Deformation
 To explore and download positional time series of GNSS observations in Chile, as the ones
 depicted in the animations, please go to the GeoSismos platform by clicking [HERE](https://geosismos.cl/)
 
