@@ -48,5 +48,5 @@ To explore and download positional time series of GNSS observations in Chile, as
 depicted in the animations, please go to the GeoSismos platform by clicking [HERE](https://geosismos.cl/)
 
 
-<img src="../img/logo-geosismos.png" alt="GEOSISMOS Logo" height="75">
+<img src="../img/logo-geosismos.png" alt="GEOSISMOS Logo" height="40">
 
