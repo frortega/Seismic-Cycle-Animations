@@ -44,3 +44,9 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
 ## GeoSismos: GNSS observations of Earth's Crustal Deformation
 To explore and download positional time series of GNSS observations in Chile, as the ones
 depicted in the animations, please go to the GeoSismos platform by clicking [HERE](https://geosismos.cl/)
+
+
+
+
+
+<video src="SeismicCycle_Subduction_short_English.mp4" controls width="600"></video>
