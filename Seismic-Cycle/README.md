@@ -21,7 +21,7 @@ If you want so explore and download positional time series of GNSS observations 
 ## Acknowledgements
 **Funded by Project Fondecyt 1231684 - ANID - Chile.**
 
-<img src="img/LOGOS_MINCIENCIA_ANID%202026.png" alt="ANID Logo" height="150">
+<img src="../img/LOGOS_MINCIENCIA_ANID%202026.png" alt="ANID Logo" height="150">
 
 ## License
 
