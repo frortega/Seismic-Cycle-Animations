@@ -36,16 +36,7 @@ This work is licensed under the [Creative Commons Attribution 4.0 International 
 
 ## Built with
 
-- [Python](https://www.python.org/) 3.12
-- [NumPy](https://numpy.org/)
-- [Matplotlib](https://matplotlib.org/)
-- [Pillow](https://python-pillow.org/)
-- [SciPy](https://scipy.org/)
-- [netCDF4](https://unidata.github.io/netcdf4-python/)
-- [pyproj](https://pyproj4.github.io/pyproj/)
-- [tqdm](https://github.com/tqdm/tqdm)
-- [FFmpeg](https://ffmpeg.org/) for video encoding
-- [GNU Fortran (gfortran)](https://gcc.gnu.org/fortran/) for compiling the deformation solver
+- [Python](https://www.python.org/) - [NumPy](https://numpy.org/) - [Matplotlib](https://matplotlib.org/) - [Pillow](https://python-pillow.org/) - [SciPy](https://scipy.org/) - [netCDF4](https://unidata.github.io/netcdf4-python/) - [pyproj](https://pyproj4.github.io/pyproj/) - [tqdm](https://github.com/tqdm/tqdm) - [FFmpeg](https://ffmpeg.org/) - [GNU Fortran (gfortran)](https://gcc.gnu.org/fortran/).
 
 
 ## GeoSismos: GNSS observations of Earth's Crustal Deformation
