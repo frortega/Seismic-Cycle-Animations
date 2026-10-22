@@ -6,11 +6,15 @@ An animation depicting the seismic cycle at a subduction zone (Nazca Plate conve
 
 ⬇️ [Download the animation (English, Short version, MP4)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/SeismicCycle_Subduction_short_English.mp4)
 
+⬇️ [Download the animation (English, Long version, MP4)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/SeismicCycle_Subduction_long_English.mp4)
+
 ## Español
 
 Una animación que muestra el ciclo sísmico en una zona de subducción (convergencia de la Placa de Nazca bajo la Placa Sudamericana, Chile Central), combinando una vista de mapa/perfil, series de tiempo de desplazamiento de estaciones GNSS, generación de tsunami y propagación de ondas sísmicas (P/S). Ilustra las tres etapas del ciclo: el período **intersísmico** de acumulación de deformación por bloqueo de la interfaz (décadas-siglos), la ruptura **cosísmica** del terremoto (segundos-minutos), y la relajación **postsísmica** por deslizamiento lento (meses-décadas).
 
 ⬇️ [Descargar la animación (Español, versión corta, MP4)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/CicloSismico_Subduccion_corto_Espanol.mp4)
+
+⬇️ [Descargar la animación (Español, versión larga, MP4)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/CicloSismico_Subduccion_largo_Espanol.mp4)
 
 ## GNSS observations of Earth's Crustal Deformation
 If you want so explore and download positional time series of GNSS observations in Chile, please go to the GeoSismos platform by clicking [HERE](https://geosismos.cl/).
