@@ -1,6 +1,6 @@
 # Seismic Cycle
 
-<img src="../img/screenshot_seismic_cycle.png" alt="Frame from the Seismic Cycle animation: subduction zone block diagram and GNSS station displacement time series" width="100%">
+<img src="../img/screenshot_seismic_cycle.png" alt="Frame from the Seismic Cycle animation: subduction zone block diagram and GNSS station displacement time series" width="80%">
 
 ## English
 
