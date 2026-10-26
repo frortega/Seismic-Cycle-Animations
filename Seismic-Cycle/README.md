@@ -4,7 +4,7 @@
 
 ## English
 
-An animation depicting the seismic cycle at a subduction zone (Nazca Plate converging beneath the South American Plate, Central Chile), combining a map/cross-section view, GNSS station displacement time series, tsunami generation, and seismic wave (P/S) propagation. It illustrates the cycle's three phases: the **interseismic** period of locked-interface strain accumulation (decades–centuries), the **coseismic** earthquake rupture (seconds–minutes), and the **postseismic** afterslip relaxation (months–decades).
+An animation depicting an idealized model of the seismic cycle at a subduction zone (Nazca Plate converging beneath the South American Plate, Central Chile), combining a map/cross-section view, GNSS station displacement time series, tsunami generation, and seismic wave (P/S) propagation. It illustrates the cycle's three phases: the **interseismic** period of locked-interface strain accumulation (decades–centuries), the **coseismic** earthquake rupture (seconds–minutes), and the **postseismic** afterslip relaxation (months–decades).
 
 The animation is available in six versions (MP4):
 
@@ -19,7 +19,7 @@ All versions show the project logos, the copyright and a QR code linking to this
 
 ## Español
 
-Una animación que muestra el ciclo sísmico en una zona de subducción (convergencia de la Placa de Nazca bajo la Placa Sudamericana, Chile Central), combinando una vista de mapa/perfil, series de tiempo de desplazamiento de estaciones GNSS, generación de tsunami y propagación de ondas sísmicas (P/S). Ilustra las tres etapas del ciclo: el período **intersísmico** de acumulación de deformación por bloqueo de la interfaz (décadas-siglos), la ruptura **cosísmica** del terremoto (segundos-minutos), y la relajación **postsísmica** por deslizamiento lento (meses-décadas).
+Una animación que muestra un modelo idealizado del ciclo sísmico en una zona de subducción (convergencia de la Placa de Nazca bajo la Placa Sudamericana, Chile Central), combinando una vista de mapa/perfil, series de tiempo de desplazamiento de estaciones GNSS, generación de tsunami y propagación de ondas sísmicas (P/S). Ilustra las tres etapas del ciclo: el período **intersísmico** de acumulación de deformación por bloqueo de la interfaz (décadas-siglos), la ruptura **cosísmica** del terremoto (segundos-minutos), y la relajación **postsísmica** por deslizamiento lento (meses-décadas).
 
 La animación está disponible en seis versiones (MP4):
 
