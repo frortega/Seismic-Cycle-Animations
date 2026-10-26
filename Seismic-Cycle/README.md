@@ -8,12 +8,12 @@ An animation depicting the seismic cycle at a subduction zone (Nazca Plate conve
 
 The animation is available in six versions (MP4):
 
-- ⬇️ [Long, with GNSS (1 min 35 s)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/ANIMATIONS/English/SeismicCycle_long_GNSS_english.mp4): complete version, from the Earth and the map of Chile to the 3-D subduction model, with an explanation of each stage, GNSS time series and closing credits.
-- ⬇️ [Long fast, with GNSS (1 min)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/ANIMATIONS/English/SeismicCycle_long_fast_GNSS_english.mp4): the complete version condensed to under one minute.
-- ⬇️ [Long, without GNSS (1 min 35 s)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/ANIMATIONS/English/SeismicCycle_long_english.mp4): complete version focused on the 3-D model, without GNSS stations or time series (nearly square frame).
-- ⬇️ [Long fast, without GNSS (1 min)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/ANIMATIONS/English/SeismicCycle_long_fast_english.mp4): the version without GNSS condensed to under one minute.
-- ⬇️ [Short, with GNSS (30 s)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/ANIMATIONS/English/SeismicCycle_short_GNSS_english.mp4): one seismic cycle on the 3-D model with GNSS time series and a one-line summary of each stage under the time bar; no introduction or credits.
-- ⬇️ [Short, without GNSS (30 s)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/ANIMATIONS/English/SeismicCycle_short_english.mp4): one seismic cycle on the 3-D model only, with a one-line summary of each stage (nearly square frame).
+- ⬇️ [Long, with GNSS (1 min 35 s)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/English/SeismicCycle_long_GNSS_english.mp4): complete version, from the Earth and the map of Chile to the 3-D subduction model, with an explanation of each stage, GNSS time series and closing credits.
+- ⬇️ [Long fast, with GNSS (1 min)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/English/SeismicCycle_long_fast_GNSS_english.mp4): the complete version condensed to under one minute.
+- ⬇️ [Long, without GNSS (1 min 35 s)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/English/SeismicCycle_long_english.mp4): complete version focused on the 3-D model, without GNSS stations or time series (nearly square frame).
+- ⬇️ [Long fast, without GNSS (1 min)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/English/SeismicCycle_long_fast_english.mp4): the version without GNSS condensed to under one minute.
+- ⬇️ [Short, with GNSS (30 s)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/English/SeismicCycle_short_GNSS_english.mp4): one seismic cycle on the 3-D model with GNSS time series and a one-line summary of each stage under the time bar; no introduction or credits.
+- ⬇️ [Short, without GNSS (30 s)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/English/SeismicCycle_short_english.mp4): one seismic cycle on the 3-D model only, with a one-line summary of each stage (nearly square frame).
 
 All versions show the project logos, the copyright and a QR code linking to this repository. Videos are H.264 MP4 at 24 fps: 2560×1440 with GNSS, 1452×1344 (long) and 1526×1440 (short) without GNSS.
 
@@ -23,12 +23,12 @@ Una animación que muestra el ciclo sísmico en una zona de subducción (converg
 
 La animación está disponible en seis versiones (MP4):
 
-- ⬇️ [Larga, con GNSS (1 min 35 s)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/ANIMATIONS/Espanol/CicloSismico_long_GNSS_espa%C3%B1ol.mp4): versión completa, desde la Tierra y el mapa de Chile hasta el modelo 3-D de subducción, con la explicación de cada etapa, series de tiempo GNSS y créditos finales.
-- ⬇️ [Larga rápida, con GNSS (1 min)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/ANIMATIONS/Espanol/CicloSismico_long_fast_GNSS_espa%C3%B1ol.mp4): la versión completa condensada en menos de un minuto.
-- ⬇️ [Larga, sin GNSS (1 min 35 s)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/ANIMATIONS/Espanol/CicloSismico_long_espa%C3%B1ol.mp4): versión completa centrada en el modelo 3-D, sin estaciones ni series de tiempo GNSS (cuadro casi cuadrado).
-- ⬇️ [Larga rápida, sin GNSS (1 min)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/ANIMATIONS/Espanol/CicloSismico_long_fast_espa%C3%B1ol.mp4): la versión sin GNSS condensada en menos de un minuto.
-- ⬇️ [Corta, con GNSS (30 s)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/ANIMATIONS/Espanol/CicloSismico_short_GNSS_espa%C3%B1ol.mp4): un ciclo sísmico en el modelo 3-D con series de tiempo GNSS y un resumen de una línea de cada etapa bajo la barra de tiempo; sin introducción ni créditos.
-- ⬇️ [Corta, sin GNSS (30 s)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/ANIMATIONS/Espanol/CicloSismico_short_espa%C3%B1ol.mp4): un ciclo sísmico solo en el modelo 3-D, con un resumen de una línea de cada etapa (cuadro casi cuadrado).
+- ⬇️ [Larga, con GNSS (1 min 35 s)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/Espanol/CicloSismico_long_GNSS_espa%C3%B1ol.mp4): versión completa, desde la Tierra y el mapa de Chile hasta el modelo 3-D de subducción, con la explicación de cada etapa, series de tiempo GNSS y créditos finales.
+- ⬇️ [Larga rápida, con GNSS (1 min)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/Espanol/CicloSismico_long_fast_GNSS_espa%C3%B1ol.mp4): la versión completa condensada en menos de un minuto.
+- ⬇️ [Larga, sin GNSS (1 min 35 s)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/Espanol/CicloSismico_long_espa%C3%B1ol.mp4): versión completa centrada en el modelo 3-D, sin estaciones ni series de tiempo GNSS (cuadro casi cuadrado).
+- ⬇️ [Larga rápida, sin GNSS (1 min)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/Espanol/CicloSismico_long_fast_espa%C3%B1ol.mp4): la versión sin GNSS condensada en menos de un minuto.
+- ⬇️ [Corta, con GNSS (30 s)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/Espanol/CicloSismico_short_GNSS_espa%C3%B1ol.mp4): un ciclo sísmico en el modelo 3-D con series de tiempo GNSS y un resumen de una línea de cada etapa bajo la barra de tiempo; sin introducción ni créditos.
+- ⬇️ [Corta, sin GNSS (30 s)](https://raw.githubusercontent.com/frortega/Seismic-Cycle-Animations/main/Seismic-Cycle/Espanol/CicloSismico_short_espa%C3%B1ol.mp4): un ciclo sísmico solo en el modelo 3-D, con un resumen de una línea de cada etapa (cuadro casi cuadrado).
 
 Todas las versiones muestran los logos del proyecto, el copyright y un código QR que enlaza a este repositorio. Los videos son MP4 (H.264) a 24 cuadros por segundo: 2560×1440 con GNSS; 1452×1344 (larga) y 1526×1440 (corta) sin GNSS.
 
