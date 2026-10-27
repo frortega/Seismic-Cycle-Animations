@@ -6,6 +6,11 @@ when it relies on third-party data or code sources.
 
 - [Seismic-Cycle/](Seismic-Cycle): Animation explaining a simplified Seismic Cycle model in Subduction Zones. Available in english and spanish.
 
+## Citation
+Francisco H. Ortega-Culaciati, & Ruiz, J. (2026). frortega/Seismic-Cycle-Animations: Seismic Cycle Animations (Version v.1.0.0) [Video recording]. Zenodo. https://doi.org/10.5281/zenodo.23689198
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23689198.svg)](https://doi.org/10.5281/zenodo.23689198)
+
 ## Acknowledgements
 **Funded by Project Fondecyt 1231684 - ANID - Chile.**
 
