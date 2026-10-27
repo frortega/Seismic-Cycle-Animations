@@ -32,6 +32,11 @@ La animación está disponible en seis versiones (MP4):
 
 Todas las versiones muestran los logos del proyecto, el copyright y un código QR que enlaza a este repositorio. Los videos son MP4 (H.264) a 24 cuadros por segundo: 2560×1440 con GNSS; 1452×1344 (larga) y 1526×1440 (corta) sin GNSS.
 
+## Citation
+Francisco H. Ortega-Culaciati, & Ruiz, J. (2026). frortega/Seismic-Cycle-Animations: Seismic Cycle Animations (Version v.1.0.0) [Video recording]. Zenodo. https://doi.org/10.5281/zenodo.23689198
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23689198.svg)](https://doi.org/10.5281/zenodo.23689198)
+
 ## Credits
 
 - **© 2026 F. Ortega-Culaciati, J. Ruiz Paredes**
